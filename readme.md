@@ -49,7 +49,7 @@ I build production-grade AI platforms — from <b>offline mobile LLMs</b> to <b>
 
 ### ⚙️ Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,flask,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,nextjs" />
 </p>
 
 ### 🧠 AI / GenAI
